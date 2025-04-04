@@ -1,0 +1,12 @@
+body{
+    font-family: Bauhos 93,sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: aqua;
+    text-align: center;
+
+img{
+    width: 200px;
+    height: auto;
+    border-radius; 10px;
+    box-shadow: 0 4px 8px rgba(rgb(73, 44, 44), rgb(64, 145, 64), rgb(191, 191, 221), alpha);
